@@ -21,6 +21,7 @@
 <h2>🎨Design</h2>
 
 <h2>👩🏻‍💻Development</h2>
+<h4>Setup</h4>
 
 <h2>🧪Testing</h2>
 
