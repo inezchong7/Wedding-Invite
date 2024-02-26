@@ -18,6 +18,21 @@
   <li>Live-streaming: enable long-distance guests to participate</li>
 </ul>
 
+<p>Things to decide:</p>
+<ul>
+  <li>Personalised invites? (custom greetings, make changes to the guest list)</li>
+  <li>Relational database (expand each invite to see how many guests and who are coming, contact details, food preferences)</li>
+  <li></li>
+</ul>
+
+<p>Information to collect:</p>
+<ul>
+  <li>How many people are coming</li>
+  <li>Names</li>
+  <li>Dietary Restrictions: none, vegan, gluten-free, allergies</li>
+  <li>Contact details</li>
+</ul>
+
 <h2>🎨Design</h2>
 
 <h2>👩🏻‍💻Development</h2>
